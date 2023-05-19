@@ -1,6 +1,6 @@
 package questions;
 import java.util.*;
-//Linear Search Code
+//Linear Search Code Time Complexity-O(n)
 public class Linear_Search {
 public static int linearsearch(int arr[],int element)
 {
