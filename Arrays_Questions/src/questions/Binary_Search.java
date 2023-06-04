@@ -1,6 +1,6 @@
 package questions;
 import java.util.*;
-//Binary Search
+//Binary Search Time Complexity:-O(log n)
 public class Binary_Search {
 	public static int binarysearch(int arr[],int k)
 	{
